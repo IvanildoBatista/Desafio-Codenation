@@ -8,8 +8,9 @@ Usar um ou mais modelos de machine learning do tipo regressão para prever as no
 # Modelos usados e resultados
 
 Foram usado vários modelos de ML do tipo Regressão (11 ao todo) e podem ser observados no script desse repositório.
+O modelo do qual obtive melhor resultado foi o a Regressão Gradient Boosting com o resultado de 93.64%.
 
-#Tratamento dos dados
+# Tratamento dos dados
 
 1) Verificação das variáveis
 2) Seleção das variáveis por meio da correlação
@@ -17,12 +18,12 @@ Foram usado vários modelos de ML do tipo Regressão (11 ao todo) e podem ser ob
 4) treinamento dos modelos
 5) Geração das previsões
 
-#Bibliotecas usadas
+# Bibliotecas usadas
 
 Matplotlib, Pandas, Seaborn e Scikit-learn
 
-#Dados
+# Dados
 
 Arquivos com dados de treino (train.csv) e teste (test.csv)
 
-# O meu maior score nesse desafio foi de 93.64%
+#
