@@ -1,14 +1,14 @@
-# Desafio-Codenation
-Script da resolução do desafio codenation de 2020.
+# Desafio Codenation
+Script da resolução do desafio para ingresso do Datacamp da Codenation em 2020.
 
 # Objetivo do desafio
 
-Usar um ou mais modelos de machine learning do tipo regressão para prever as notas de matemática do ENEM do ano de 2016.
+Usar um ou mais modelos de *machine learning* do tipo regressão para previsão de notas de matemática do ENEM do ano de 2016.
 
 # Modelos usados e resultados
 
 Foram usados vários modelos de ML do tipo Regressão (11 ao todo) e podem ser observados no script desse repositório.
-O modelo que obteve o melhor resultado foi a Regressão Gradient Boosting com o resultado de 93.64%.
+O modelo que obteve o melhor resultado foi a Regressão *Gradient Boosting* com o resultado de **93.64**%.
 
 # Tratamento dos dados
 
@@ -20,8 +20,8 @@ O modelo que obteve o melhor resultado foi a Regressão Gradient Boosting com o 
 
 # Bibliotecas usadas
 
-Matplotlib, Pandas, Seaborn e Scikit-learn.
+*Matplotlib, Pandas, Seaborn e Scikit-learn.*
 
 # Dados
 
-Arquivos com dados de treino (train.csv) e teste (test.csv) fornecidos pela Codenation.
+Arquivos com dados de treino (*train.csv*) e teste (*test.csv*) fornecidos pela *Codenation*.
