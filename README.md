@@ -11,7 +11,7 @@ Após gerarmos as previsões com o modelo de machine learning criaríamos um arq
 
 Usar um ou mais modelos de *machine learning* do tipo regressão para previsão de notas de matemática do ENEM do ano de 2016.
 
-# Tratamento dos dados
+# Etapas
 
 1) Importação das bibliotecas;
 
