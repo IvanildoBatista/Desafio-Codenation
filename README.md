@@ -31,7 +31,7 @@ Usar um ou mais modelos de *machine learning* do tipo regressão para previsão 
 
 # Bibliotecas usadas
 
-*Matplotlib, Pandas, Seaborn e Scikit-learn.*
+*Matplotlib, Pandas, Seaborn e Scikit-learn, Statsmodels e XGBoost*
 
 # Dados
 
