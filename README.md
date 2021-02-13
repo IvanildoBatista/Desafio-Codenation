@@ -7,11 +7,11 @@ Já no arquivo *test.csv* constava todas as features com exceção da *feature* 
 
 Após gerarmos as previsões com o modelo de machine learning criaríamos um arquivo com apenas duas colunas que seriam **NU_INSCRICAO** e **NU_NOTA_MT** criamos o arquivo *csv* e para submissão.
 
-# Objetivo do desafio
+## Objetivo do desafio
 
 Usar um ou mais modelos de *machine learning* do tipo regressão para previsão de notas de matemática do ENEM do ano de 2016.
 
-# Etapas
+## Etapas
 
 1) Importação das bibliotecas;
 
@@ -29,14 +29,14 @@ Usar um ou mais modelos de *machine learning* do tipo regressão para previsão 
 
 8) Comparação dos resultados dos modelos.
 
-# Bibliotecas usadas
+## Bibliotecas usadas
 
 *Matplotlib, Pandas, Seaborn e Scikit-learn, Statsmodels e XGBoost*
 
-# Dados
+## Dados
 
 Arquivos com dados de treino (*train.csv*) e teste (*test.csv*) fornecidos pela *Codenation*.
 
-# Modelos usados e resultados
+## Modelos usados e resultados
 
 Foram usados vários modelos de ML do tipo Regressão (11 ao todo) e podem ser observados no script desse repositório. O modelo que obteve o melhor resultado foi a Regressão *Gradient Boosting* com o resultado de **93.64**%.
